@@ -1,0 +1,7 @@
+ID,MEDICINENAME,MANUFACTOR,EXP DATE,STOCK,SHELF,PRICE
+1,dolo,cipla,22-12-2023,82,A5,2.0
+2,calpol,netmed,22-12-2025,95,A7,1.75
+205,seacod,cipla,8/12/2025,-1,B5,120.0
+9,diabend,aak,5/12/2026,60,C5,2.75
+101,glucose,cipla,22/12/2027,4,c5,75.0
+1025,gemer,Rxm,22/12/2021,-25,A3,2.8
